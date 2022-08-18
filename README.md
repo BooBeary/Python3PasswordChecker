@@ -25,12 +25,14 @@ or you can put the password in double quotes:
 The terminal will display a message depending on the number of leaks recorded:
 
 > ``~python3 main.py "P4$$w0rD5aMp!3"``
-> ``P4$$w0rD5aMp!3 was found *LEAKS RECORDED* times, you should probably change your password.``
+> 
+> P4$$w0rD5aMp!3 was found *LEAKS RECORDED* times, you should probably change your password.
 
 or in the case that no matching hashes were found:
 
 > ``~python3 main.py "P4$$w0rD5aMp!3"``
-> ``P4$$w0rD5aMp!3 was NOT found. Nice ; )``
+> 
+> P4$$w0rD5aMp!3 was NOT found. Nice ; )
 
 the program then returns to terminal after printing:
 
@@ -39,7 +41,10 @@ the program then returns to terminal after printing:
 ## EXAMPLE
 
 > ``~python3 main.py "P4$$w0rD5aMp!3"``
-> ``P4$$w0rD5aMp!3 was NOT found. Nice ; )``
+> 
+> P4$$w0rD5aMp!3 was NOT found. Nice ; )
+> 
 > All done, returning to terminal.
+> 
 > ``~|``
 
