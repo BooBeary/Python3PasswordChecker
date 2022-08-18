@@ -13,6 +13,7 @@ This program takes a password input in the terminal arguments, uses hashlib to c
 ## HOW TO USE THIS PROGRAM
 
 '''
+
 Run **main.py** with python3, for the arguments input the password you want to check, use either an escape sequence before every special character in your terminal for example:
 
 > ``~python3 main.py P4\$\$w0rD5aMp\!3``
@@ -22,6 +23,7 @@ or you can put the password in double quotes:
 > ``~python3 main.py "P4$$w0rD5aMp!3"``
 
 '''
+
 The terminal will display a message depending on the number of leaks recorded:
 
 > ``~python3 main.py "P4$$w0rD5aMp!3"``
@@ -38,7 +40,11 @@ the program then returns to terminal after printing:
 
 > All done, returning to terminal.
 
+'''
+
 ## EXAMPLE
+
+'''
 
 > ``~python3 main.py "P4$$w0rD5aMp!3"``
 > 
@@ -48,3 +54,4 @@ the program then returns to terminal after printing:
 > 
 > ``~|``
 
+'''
