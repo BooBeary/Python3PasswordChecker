@@ -6,7 +6,7 @@
 
 '''
 
-This program takes a password input in the terminal arguments, uses hashlib to create a hexidecimal hash of the password, request the data of the first five characters of the hash from [haveibeenpwned](https://haveibeenpwned.com/),compares the recieved data against the number of leaks recorded for a matching password, and displays the number of leaks in terminal.
+This program takes a password input in the terminal arguments, uses hashlib to create a hexidecimal hash of the password, request the data of the first five characters of the hash from [haveibeenpwned](https://haveibeenpwned.com/), compares the recieved data against the number of leaks recorded for a matching password, and displays the number of leaks in terminal.
 
 '''
 
