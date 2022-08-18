@@ -1,6 +1,6 @@
 # PYTHON PASSWORD LEAK CHECKER
 
-#### Boo
+#### By: Boo
 
 ## Description
 
